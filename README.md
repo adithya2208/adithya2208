@@ -2,7 +2,8 @@
 🔭 I’m currently working on: Trying to analyze chess games in an unprecedented, unique way to help improve your game!<br>👯 I’m looking to collaborate on: Anything related to chess!<br>🌱 I’m currently learning: Frontend chessboard design using Javascript!<br>💬 Ask me about: If I believe the Universe is deterministic or probabilistic! <br>⚡ Fun fact: There are more possible iterations of a game of chess than there are atoms in the observable universe.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sir.adddy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codewithadi/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codewithadi/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sir.adddy) 
 
 
 # 💻 Tech Stack:
