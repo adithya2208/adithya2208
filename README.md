@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Trying to analyze chess games in unprecedented unique ways and help improve your game!<br>👯 I’m looking to collaborate on: Anything related to chess!<br>🌱 I’m currently learning: Frontend chessboard design using Javascript!<br>💬 Ask me about: If I believe the Universe is deterministic or probabilistic! <br>⚡ Fun fact: There are more possible iterations of a game of chess than there are atoms in the observable universe.
+🔭 I’m currently working on: Trying to analyze chess games in an unprecedented, unique way to help improve your game!<br>👯 I’m looking to collaborate on: Anything related to chess!<br>🌱 I’m currently learning: Frontend chessboard design using Javascript!<br>💬 Ask me about: If I believe the Universe is deterministic or probabilistic! <br>⚡ Fun fact: There are more possible iterations of a game of chess than there are atoms in the observable universe.
 
 
 ## 🌐 Socials:
